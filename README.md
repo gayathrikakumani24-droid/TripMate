@@ -1,5 +1,8 @@
 # ✈️ TripMate AI — Autonomous Multi-Agent Travel Planner
 
+<img width="1310" height="669" alt="Screenshot (763)" src="https://github.com/user-attachments/assets/37c86394-8ed0-4861-942a-33dd3a6903ec" />
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/FastAPI-0.136%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -73,6 +76,9 @@ flowchart TD
      6. **Final Practical Travel Tips**
 
 ---
+<img width="1294" height="686" alt="Screenshot (764)" src="https://github.com/user-attachments/assets/60a5f331-faef-442a-b6cc-605839e4d47c" />
+<img width="1292" height="679" alt="Screenshot (765)" src="https://github.com/user-attachments/assets/bdfa3218-6b8b-4725-8cc0-a873f670acba" />
+<img width="1250" height="680" alt="Screenshot (766)" src="https://github.com/user-attachments/assets/77936c01-38bd-40d5-9b91-94fd4f3a796a" />
 
 ## 🧰 Tech Stack
 
